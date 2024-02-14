@@ -1,7 +1,7 @@
-Welcome to Lumache's documentation!
+Welcome to LocationEncoder's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
+**LocationEncoder** is a Python library for location encoding
 that creates recipes mixing random ingredients.
 It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
 and offers a *simple* and *intuitive* API.
@@ -18,5 +18,11 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   INSTALL LOCATIONENCODER
+   GET STARTED
+   TUTORIALS
+   ADVANCED CONCEPTS
+   PACKAGE REFERENCE
+   DATA
+   API
+   OTHERS
