@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'LocationEncoder'
+copyright = '2024, SEAI'
+author = 'SEAI'
 
 release = '0.1'
 version = '0.1.0'
