@@ -18,11 +18,11 @@ Contents
 
 .. toctree::
 
-   INSTALL
-   GET STARTED
-   TUTORIALS
-   ADVANCED CONCEPTS
-   PACKAGE REFERENCE
-   DATA
-   API
-   OTHERS
+   install
+   get started
+   tutorials
+   advanced concepts
+   package reference
+   data
+   api
+   others
